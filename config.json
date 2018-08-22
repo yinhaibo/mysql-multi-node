@@ -1,0 +1,27 @@
+{
+    "nodes": [{
+        "host": "192.168.12.240",
+        "port": 3306,
+        "user": "root",
+        "password": "12345678",
+        "supportBigNumbers": true,
+        "bigNumberStrings": true
+    },
+    {
+        "host": "192.168.12.241",
+        "port": 3306,
+        "user": "root",
+        "password": "12345678",
+        "supportBigNumbers": true,
+        "bigNumberStrings": true
+    },
+    {
+        "host": "192.168.12.242",
+        "port": 3306,
+        "user": "root",
+        "password": "12345678",
+        "supportBigNumbers": true,
+        "bigNumberStrings": true
+    }
+]
+}
