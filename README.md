@@ -1,6 +1,15 @@
 # mysql-multi-node
 Execute sql in multiple mysql database node.
 
+## Usage
+```
+git clone https://github.com/yinhaibo/mysql-multi-node.git
+cd mysql-multi-node
+npm install
+# update config.json configuration
+node index "show dtabases"
+```
+
 ## Execute sql command in multiple mysql node
 ```
 node index.js "show databases"
